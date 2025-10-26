@@ -1,13 +1,5 @@
 # elzanatu
 website
-<!--
-Single-file responsive website for elzanatu.com
-How to use:
-1. Save this file as index.html
-2. Upload to your hosting (GitHub Pages, Netlify, Vercel, or any web host)
-3. Point your domain elzanatu.com to the hosting provider (use A/AAAA/CNAME records)
-
-This file contains simple CSS and vanilla J<!doctype html>
 <html lang="id">
 <head>
   <meta charset="utf-8" />
